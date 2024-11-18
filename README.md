@@ -1,5 +1,5 @@
 # Server Performance Stats
-
+This script is part of the **Server Stats** project listed on [roadmap.sh](https://roadmap.sh/projects/server-stats). 
 This script collects and displays essential server performance statistics, including:
 
 1. Total CPU usage
