@@ -9,7 +9,7 @@ This script collects and displays essential server performance statistics, inclu
 5. Top 5 processes by memory usage
 
 ## Prerequisites
-Ensure you have the required permissions to execute scripts on your Linux server.
+Ensure you have the required permissions and commands [top, free, df, ps, and awk] to execute scripts on your Linux server.
 
 ---
 
